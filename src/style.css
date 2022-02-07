@@ -1,0 +1,28 @@
+#inputdiv{
+    margin:70px;
+}
+input[type="text"]
+{
+    font-size:15px;
+    padding:5px;
+    text-align:center;
+    margin-left:50px;
+}
+
+input[type="button"]
+{
+    font-size:16px;
+    margin-right:215px;
+    margin-top:30px;
+    padding-right:40px;
+    padding-left:20px;
+    height:40px;
+
+}
+#output{
+  margin-left:215px;
+  margin-right:300px;
+}
+#main{
+  align-items:center;
+}
