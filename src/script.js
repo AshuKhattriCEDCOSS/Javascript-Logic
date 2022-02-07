@@ -13,7 +13,7 @@ function validate(){
 }
 function check(n,a,w){
   
-if((a>=5 || a<=7 ) && (w>=15 || w<=20))
+if((a>=5 && a<=7 ) && (w>=15 || w<=20))
 {
    v=("Hello "+n+" !!!! Your weight is perfect");
    display(v);
